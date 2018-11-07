@@ -1,0 +1,22 @@
+{
+  "name": "forkliftmonitoring",
+  "version": "1.0.0",
+  "description": "motion tracking for forklifts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gradybknight/forkliftMonitoring.git"
+  },
+  "author": "grady knight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gradybknight/forkliftMonitoring/issues"
+  },
+  "homepage": "https://github.com/gradybknight/forkliftMonitoring#readme",
+  "dependencies": {
+    "phidget22": "^2.0.7"
+  }
+}
