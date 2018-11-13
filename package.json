@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/gradybknight/forkliftMonitoring#readme",
   "dependencies": {
+    "moment": "^2.22.2",
     "phidget22": "^2.0.7"
   }
 }
